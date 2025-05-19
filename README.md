@@ -20,3 +20,9 @@ Run the script with:
 
 ```bash
 python rps_game.py
+
+Computer or Friend? (c/f) c
+Rock, paper or scissors? (r/p/s) r
+You choose: 🪨  Computer choose: ✂️
+You Win
+...
