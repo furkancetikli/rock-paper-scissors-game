@@ -19,7 +19,7 @@ Make sure you have Python installed (version 3.x).
 Run the script with:
 
 ```bash
-python rps_game.py
+python rock-paper-scissors.py
 
 Computer or Friend? (c/f) c
 Rock, paper or scissors? (r/p/s) r
