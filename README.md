@@ -17,12 +17,13 @@ The game continues until one player reaches **3 wins**, and the overall winner i
 Make sure you have Python installed (version 3.x).
 
 Run the script with:
-
 ```bash
 python rock-paper-scissors.py
-
+```
+## Example
+```bash
 Computer or Friend? (c/f) c
 Rock, paper or scissors? (r/p/s) r
 You choose: 🪨  Computer choose: ✂️
 You Win
-...
+```
